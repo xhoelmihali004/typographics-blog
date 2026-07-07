@@ -1,0 +1,23 @@
+{
+  "name": "typographics-blog-v3",
+  "version": "1.0.0",
+  "description": "Typographics Blog using CSS",
+  "homepage": "https://github.com/xhoelmihali004/typographics-blog#readme",
+  "bugs": {
+    "url": "https://github.com/xhoelmihali004/typographics-blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhoelmihali004/typographics-blog.git"
+  },
+  "license": "ISC",
+  "author": "Xhoel Mihali",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.101.0"
+  }
+}
